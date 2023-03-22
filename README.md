@@ -10,5 +10,8 @@ templates de forma visual (que é bem mais fácil, a gente é bem São Tomé: �
 templates visualmente. No caso, vocês terão a liberdade de criar um template no Figma e posteriormente passar esse template para a linguagem html/css, mas muita calma, o
 Figma já foi criado para facilitar esse processo.
 </p>
+<p>
+Template Figma: https://www.figma.com/file/esVVWCjM9yJgHdEZDCD7cp/Untitled?node-id=0%3A1&t=HOb3iqWFxu8D2vMu-1
+</p>
 </body>
 
